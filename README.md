@@ -1,5 +1,5 @@
 # Car-Rental-System
-Car Rental System coded in CSharp windows Forms
+Car Rental System coded in CSharp windows Forms.
 user name is Mostafa Ala
-password is 212
-from database tables
+and password is 212
+(from database tables)
